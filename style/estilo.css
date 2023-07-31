@@ -20,7 +20,7 @@ body{
     display: inline-block;
         
 }
-.conteiner{
+.blas{
         display: flex;     
         align-items: center;
         justify-content: space-between;
